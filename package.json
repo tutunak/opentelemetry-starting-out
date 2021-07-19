@@ -13,6 +13,7 @@
     "@opentelemetry/core": "^0.23.0",
     "@opentelemetry/exporter-zipkin": "^0.23.0",
     "@opentelemetry/node": "^0.23.0",
+    "@opentelemetry/plugin-express": "^0.15.0",
     "@opentelemetry/plugin-http": "^0.18.2",
     "@opentelemetry/plugin-https": "^0.18.2",
     "@opentelemetry/tracing": "^0.23.0",
